@@ -1,0 +1,346 @@
+{
+  "projects": [
+    {
+      "title": "Daddy Yankee - La Postal",
+      "cover": "/uploads/cover_s_1.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "Album Cover Art, Tracklist and Videos",
+      "client": "Daddy Yankee",
+      "description": "https://daddyyankee.com/",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Tour de France - Helmet Design",
+      "cover": "/uploads/tour-de-france/helmet-01.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Art",
+      "client": "UAE Team Emirates",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Alo Yoga",
+      "cover": "/uploads/alo/court.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Alo Yoga",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Google Flow - \"DREAM\"",
+      "cover": "/uploads/google-flow-cover-2.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Movie",
+      "client": "Google",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "https://youtu.be/kia4T3Lylew?si=ugbKVceWN5_tszad",
+      "hidden": false
+    },
+    {
+      "title": "Perplexity",
+      "cover": "/uploads/perplexity/perplexity-01.webp",
+      "tear_focus": "center",
+      "year": "2025-2026",
+      "category": "AI Visuals",
+      "client": "Perplexity",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Macklemore - Good Old Days",
+      "cover": "/uploads/macklemore/macklemore-01.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "Video",
+      "client": "Macklemore",
+      "description": "Macklemore - Good Old Days Music Video\nArt Director: Ege Berkin Akdag",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "ZapConnect 2026",
+      "cover": "/uploads/zapconnect/zapconnect-05.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "World building, AI visuals and videos",
+      "client": "Zapier",
+      "description": "Art Director: Ege Berkin Akdag",
+      "images": [
+        {
+          "image": "/uploads/zapconnect/zapconnect-05.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "PLAID",
+      "cover": "/uploads/plaid/plaid-02.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Plaid",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/plaid/plaid-02.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "The Hunter - Humancentric",
+      "cover": "/uploads/magnific__bu-posteri-dikey-yap__44091.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Film",
+      "client": "Humancentric",
+      "description": "Art Director: Ege Berkin Akdağ",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Opening Film for The German Creative Economy Summit 2026",
+      "cover": "/uploads/gces/cover.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "",
+      "client": "GCES",
+      "description": "Art Director: Ege Berkin Akdağ",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Adobe Firefly x Times Square",
+      "cover": "/uploads/firefly-times-square/firefly-01.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Artworks",
+      "client": "Adobe Firefly",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Atalanta B.C.",
+      "cover": "/uploads/atalanta/atalanta-01.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Atalanta B.C.",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Hebbia",
+      "cover": "/uploads/hebbia_1v.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "World building and AI Images",
+      "client": "Hebbia",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "https://www.hebbia.com/",
+      "hidden": false
+    },
+    {
+      "title": "Sibel Can",
+      "cover": "/uploads/sibel-can/sibel-can-01.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Sibel Can",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Donde Esteban",
+      "cover": "/uploads/donde-esteban-x-gizem-akdag-1.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Photography",
+      "client": "Donde Esteban",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "ARP FRIQUE & THE PERPETUAL SINGERS, LIVE TOGETHER LIVE",
+      "cover": "/uploads/arp-x-gizem-collab.webp",
+      "tear_focus": "center",
+      "year": "2025",
+      "category": "AI Video",
+      "client": "ARP FRIQUE & THE PERPETUAL SINGERS",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Ikinita",
+      "cover": "/uploads/ikinita/pink.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "",
+      "client": "Ikinita",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "PAMA KUWAIT",
+      "cover": "/uploads/pama-kuwait/pama-01.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "PAMA KUWAIT",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "ZapConnect 2025",
+      "cover": "/uploads/zapconnect-2025/zapconnect-2025-10.webp",
+      "tear_focus": "center",
+      "year": "2025",
+      "category": "AI Visuals",
+      "client": "Zapier",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/zapconnect-2025/zapconnect-2025-10.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Perplexity Radio",
+      "cover": "/uploads/perplexity-radio/radio-6-poster.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Videos",
+      "client": "Perplexity",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/perplexity-radio/radio-6-poster.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Perplexity Computer",
+      "cover": "/uploads/perplexity-computer/computer-video-2-poster.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Perplexity",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/perplexity-computer/computer-video-2-poster.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Perplexity Supply",
+      "cover": "/uploads/perplexity-supply/supply-01.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "AI Visuals",
+      "client": "Perplexity",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Rubio",
+      "cover": "/uploads/rubio/rubio-01-poster.webp",
+      "tear_focus": "center",
+      "year": "2026",
+      "category": "Concert Video",
+      "client": "Rubio",
+      "description": "",
+      "images": [
+        {
+          "image": "/uploads/rubio/rubio-01-poster.webp",
+          "caption": ""
+        }
+      ],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    },
+    {
+      "title": "Razer",
+      "cover": "/uploads/razer/razer-01.webp",
+      "tear_focus": "center",
+      "year": "2025",
+      "category": "AI Imagery",
+      "client": "Razer",
+      "description": "",
+      "images": [],
+      "link_label": "",
+      "link_url": "",
+      "hidden": false
+    }
+  ]
+}
